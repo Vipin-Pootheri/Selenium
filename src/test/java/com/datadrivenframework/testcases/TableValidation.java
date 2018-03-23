@@ -18,7 +18,7 @@ import com.relevantcodes.extentreports.LogStatus;
 
 public class TableValidation extends basetest{
 	SoftAssert soa =null;
-	Xls_Reader xls = new Xls_Reader("C:\\Users\\me_si\\Desktop\\TestData.xlsx");
+	Xls_Reader xls = new Xls_Reader(System.getProperty("user.dir")+ "\\TestData.xlsx");
 	@Test(dataProvider="getData")
 	public void tablevalidation(Hashtable<String, String> data)  {
 		String dataBaseName ="localhost:15211:xe";

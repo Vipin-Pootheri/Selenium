@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2018-03-23T14:08:13Z" name="Default suite" finished-at="2018-03-23T14:08:14Z" duration-ms="1412">
+  <suite started-at="2018-03-23T16:12:57Z" name="Default suite" finished-at="2018-03-23T16:12:59Z" duration-ms="1139">
     <groups>
     </groups>
-    <test started-at="2018-03-23T14:08:13Z" name="Default test" finished-at="2018-03-23T14:08:14Z" duration-ms="1412">
+    <test started-at="2018-03-23T16:12:57Z" name="Default test" finished-at="2018-03-23T16:12:59Z" duration-ms="1139">
       <class name="com.datadrivenframework.testcases.TableValidation">
-        <test-method is-config="true" signature="BeforeTest()[pri:0, instance:com.datadrivenframework.testcases.TableValidation@e84a8e1]" started-at="2018-03-23T14:08:13Z" name="BeforeTest" finished-at="2018-03-23T14:08:13Z" duration-ms="8" status="PASS">
+        <test-method is-config="true" signature="BeforeTest()[pri:0, instance:com.datadrivenframework.testcases.TableValidation@e84a8e1]" started-at="2018-03-23T16:12:57Z" name="BeforeTest" finished-at="2018-03-23T16:12:57Z" duration-ms="7" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BeforeTest -->
-        <test-method signature="tablevalidation(java.util.Hashtable)[pri:0, instance:com.datadrivenframework.testcases.TableValidation@e84a8e1]" started-at="2018-03-23T14:08:13Z" name="tablevalidation" data-provider="getData" finished-at="2018-03-23T14:08:13Z" duration-ms="515" status="PASS">
+        <test-method signature="tablevalidation(java.util.Hashtable)[pri:0, instance:com.datadrivenframework.testcases.TableValidation@e84a8e1]" started-at="2018-03-23T16:12:57Z" name="tablevalidation" data-provider="getData" finished-at="2018-03-23T16:12:58Z" duration-ms="337" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -22,15 +22,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tablevalidation -->
-        <test-method is-config="true" signature="quit()[pri:0, instance:com.datadrivenframework.testcases.TableValidation@e84a8e1]" started-at="2018-03-23T14:08:13Z" name="quit" finished-at="2018-03-23T14:08:14Z" duration-ms="482" status="PASS">
+        <test-method is-config="true" signature="quit()[pri:0, instance:com.datadrivenframework.testcases.TableValidation@e84a8e1]" started-at="2018-03-23T16:12:58Z" name="quit" finished-at="2018-03-23T16:12:58Z" duration-ms="421" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quit -->
-        <test-method is-config="true" signature="BeforeTest()[pri:0, instance:com.datadrivenframework.testcases.TableValidation@e84a8e1]" started-at="2018-03-23T14:08:14Z" name="BeforeTest" finished-at="2018-03-23T14:08:14Z" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="BeforeTest()[pri:0, instance:com.datadrivenframework.testcases.TableValidation@e84a8e1]" started-at="2018-03-23T16:12:58Z" name="BeforeTest" finished-at="2018-03-23T16:12:58Z" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BeforeTest -->
-        <test-method signature="tablevalidation(java.util.Hashtable)[pri:0, instance:com.datadrivenframework.testcases.TableValidation@e84a8e1]" started-at="2018-03-23T14:08:14Z" name="tablevalidation" data-provider="getData" finished-at="2018-03-23T14:08:14Z" duration-ms="41" status="PASS">
+        <test-method signature="tablevalidation(java.util.Hashtable)[pri:0, instance:com.datadrivenframework.testcases.TableValidation@e84a8e1]" started-at="2018-03-23T16:12:58Z" name="tablevalidation" data-provider="getData" finished-at="2018-03-23T16:12:58Z" duration-ms="35" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -41,11 +41,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tablevalidation -->
-        <test-method is-config="true" signature="quit()[pri:0, instance:com.datadrivenframework.testcases.TableValidation@e84a8e1]" started-at="2018-03-23T14:08:14Z" name="quit" finished-at="2018-03-23T14:08:14Z" duration-ms="60" status="PASS">
+        <test-method is-config="true" signature="quit()[pri:0, instance:com.datadrivenframework.testcases.TableValidation@e84a8e1]" started-at="2018-03-23T16:12:58Z" name="quit" finished-at="2018-03-23T16:12:58Z" duration-ms="63" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quit -->
-        <test-method signature="tablevalidation(java.util.Hashtable)[pri:0, instance:com.datadrivenframework.testcases.TableValidation@e84a8e1]" started-at="2018-03-23T14:08:14Z" name="tablevalidation" data-provider="getData" finished-at="2018-03-23T14:08:14Z" duration-ms="37" status="PASS">
+        <test-method signature="tablevalidation(java.util.Hashtable)[pri:0, instance:com.datadrivenframework.testcases.TableValidation@e84a8e1]" started-at="2018-03-23T16:12:58Z" name="tablevalidation" data-provider="getData" finished-at="2018-03-23T16:12:58Z" duration-ms="38" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -56,15 +56,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tablevalidation -->
-        <test-method is-config="true" signature="BeforeTest()[pri:0, instance:com.datadrivenframework.testcases.TableValidation@e84a8e1]" started-at="2018-03-23T14:08:14Z" name="BeforeTest" finished-at="2018-03-23T14:08:14Z" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="BeforeTest()[pri:0, instance:com.datadrivenframework.testcases.TableValidation@e84a8e1]" started-at="2018-03-23T16:12:58Z" name="BeforeTest" finished-at="2018-03-23T16:12:58Z" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BeforeTest -->
-        <test-method is-config="true" signature="quit()[pri:0, instance:com.datadrivenframework.testcases.TableValidation@e84a8e1]" started-at="2018-03-23T14:08:14Z" name="quit" finished-at="2018-03-23T14:08:14Z" duration-ms="61" status="PASS">
+        <test-method is-config="true" signature="quit()[pri:0, instance:com.datadrivenframework.testcases.TableValidation@e84a8e1]" started-at="2018-03-23T16:12:58Z" name="quit" finished-at="2018-03-23T16:12:58Z" duration-ms="62" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quit -->
-        <test-method signature="tablevalidation(java.util.Hashtable)[pri:0, instance:com.datadrivenframework.testcases.TableValidation@e84a8e1]" started-at="2018-03-23T14:08:14Z" name="tablevalidation" data-provider="getData" finished-at="2018-03-23T14:08:14Z" duration-ms="70" status="PASS">
+        <test-method signature="tablevalidation(java.util.Hashtable)[pri:0, instance:com.datadrivenframework.testcases.TableValidation@e84a8e1]" started-at="2018-03-23T16:12:58Z" name="tablevalidation" data-provider="getData" finished-at="2018-03-23T16:12:58Z" duration-ms="43" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -75,11 +75,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tablevalidation -->
-        <test-method is-config="true" signature="BeforeTest()[pri:0, instance:com.datadrivenframework.testcases.TableValidation@e84a8e1]" started-at="2018-03-23T14:08:14Z" name="BeforeTest" finished-at="2018-03-23T14:08:14Z" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="BeforeTest()[pri:0, instance:com.datadrivenframework.testcases.TableValidation@e84a8e1]" started-at="2018-03-23T16:12:58Z" name="BeforeTest" finished-at="2018-03-23T16:12:58Z" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BeforeTest -->
-        <test-method is-config="true" signature="quit()[pri:0, instance:com.datadrivenframework.testcases.TableValidation@e84a8e1]" started-at="2018-03-23T14:08:14Z" name="quit" finished-at="2018-03-23T14:08:14Z" duration-ms="52" status="PASS">
+        <test-method is-config="true" signature="quit()[pri:0, instance:com.datadrivenframework.testcases.TableValidation@e84a8e1]" started-at="2018-03-23T16:12:58Z" name="quit" finished-at="2018-03-23T16:12:59Z" duration-ms="52" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quit -->
