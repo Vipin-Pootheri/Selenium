@@ -16,7 +16,7 @@ public class ExtentManager {
 		if (extent == null) {
 			Date d=new Date();
 			String fileName=d.toString().replace(":", "_").replace(" ", "_")+".html";
-			extent = new ExtentReports(System.getProperty("user.dir") + "\\report\\"+fileName, true, DisplayOrder.OLDEST_FIRST);
+			extent = new ExtentReports(System.getProperty("user.dir") + "\\report\\Extent.html", true, DisplayOrder.OLDEST_FIRST);
 
 			
 			extent.loadConfig(new File(System.getProperty("user.dir")+"//ReportsConfig.xml"));
